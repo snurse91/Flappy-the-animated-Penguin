@@ -68,7 +68,7 @@
     height: 45%;
     background: linear-gradient(
       45deg,
-      var(--penguin-skin),
+      rgba(214, 79, 102, 0.979),
       rgb(239, 240, 228)
     );
     border-radius: 70% 70% 65% 65%;
@@ -166,7 +166,7 @@
     top: 165px;
     left: 127.5px;
     z-index: 1;
-    color: #6a6969;
+    color: #66a731;
   }
   
   .shirt div {
@@ -180,7 +180,7 @@
     height: 45%;
     background: linear-gradient(
       45deg,
-      rgb(134, 133, 133) 0%,
+      rgba(214, 79, 102, 0.979) 0%,
       rgb(234, 231, 231) 25%,
       white 67%
     );
@@ -194,7 +194,7 @@
     position: absolute;
     width: 50%;
     height: 45%;
-    background-color: var(--penguin-skin);
+    background-color: rgba(214, 79, 102, 0.979);
     top: 10%;
     left: 25%;
     border-radius: 0% 0% 100% 100%;
@@ -206,7 +206,7 @@
     height: 60%;
     background: linear-gradient(
       90deg,
-      var(--penguin-skin),
+      rgba(214, 79, 102, 0.979),
       rgb(209, 210, 199)
     );
     border-radius: 30% 30% 30% 120%;
